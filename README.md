@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ezegavilan
-This account is for learning purpose only, creating/forking repositories from courses that im taking, or projects where i can deep into new technologies.
+This account is for side projects only, creating/forking repositories from courses that im taking, or projects where i can deep into new things that im learning.
 My personal account: @neritoo if you want to take a look around.
 
 <!---
